@@ -9,7 +9,7 @@ to create a *clean, responsive, single page website.*
 **Download buttons, and social media icons do not have any function, but were essential to the overall design and feel of
 this project.** In a real world project these would have functionality.
 
-##**Key skill i focused on:**
+**##Key skill i focused on:**
 - Clean & modular HTML & CSS code.
 - Selector priority & combination.
 - Media query breakpoints.
