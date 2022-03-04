@@ -16,3 +16,4 @@ this project.** In a real world project these would have functionality.
 - CSS Z-index and stacking order.
 - Bootstrap layout system.
 - CSS positioning.
+- Colour theory.
